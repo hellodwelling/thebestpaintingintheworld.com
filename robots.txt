@@ -1,1 +1,3 @@
-disallow: /index
+User-agent: *
+Disallow: 
+Sitemap: https://thebestpaintingintheworld.com/sitemap.xml
